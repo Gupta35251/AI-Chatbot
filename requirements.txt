@@ -1,4 +1,0 @@
-langchain-community
-python-dotenv
-streamlit
-langchain-ollama
